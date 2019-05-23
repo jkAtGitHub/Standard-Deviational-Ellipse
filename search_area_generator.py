@@ -2,7 +2,7 @@
 # Name:        SEARCH_AREA_GENERATOR
 # Purpose:     Generates Search Area for each User
 #
-# Author:      realtor.com, jayakrishnan vijayaraghavan,
+# Author:      jayakrishnan vijayaraghavan,
 #
 # Created:     23/03/2018
 # Copyright:   (c) moveinc 2018
