@@ -2,7 +2,7 @@
 # Name:        geomUtils
 # Purpose:     Common geometry Utility functions
 #
-# Author:      realtor.com, jayakrishnan vijayaraghavan, 
+# Author:      jayakrishnan vijayaraghavan, 
 #
 # Created:     19/03/2018
 # Licence:     <your licence>
