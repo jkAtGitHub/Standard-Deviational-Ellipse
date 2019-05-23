@@ -2,7 +2,7 @@
 # Name:        General Utis
 # Purpose:     General utils like pickle load and dump
 #
-# Author:      realtor.com, jayakrishnan vijayaraghavan,
+# Author:      jayakrishnan vijayaraghavan,
 #
 # Created:     19/03/2018
 # Licence:     <your licence>
